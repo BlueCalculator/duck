@@ -19,8 +19,8 @@ function getOS() {
   
   console.log(getOS());
 
-// let Badboys = ['Windows', 'iOS', 'Mac OS'];
-  let Badboys = null;
+   let Badboys = ['Windows', 'iOS', 'Mac OS'];
+
 if (os = Badboys) {
     
 
