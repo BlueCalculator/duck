@@ -19,8 +19,8 @@ function getOS() {
   
   console.log(getOS());
 
-// let Badboys = ['Windows', 'iOS', 'Mac OS'];
-  let Badboys = null;
+ let Badboys = ['Windows', 'iOS', 'Mac OS'];
+
 if (os = Badboys) {
     
 
@@ -54,7 +54,7 @@ else {
    const result1 = getRandomLink(SD)
 
 
-   document.write("<iframe src=\"" + SD + "\"</iframe>")
+   document.write("<iframe src=\"" + result1 + "\"</iframe>")
 
 
     // var url = result1;
